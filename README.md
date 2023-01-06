@@ -1,2 +1,2 @@
-# Programming-Experience
-A collection of all of my academic and personal experience with programming. Broken down by language and concept
+# Introduction
+I am Zachary Goodman, computer and data science intern at Bowling Green State University. This repository is a collection of my programs and assignments related to computer science and information technology. Please see the "Important" folder for a comprehensive collection of my best programs, but feel free to browse my other folders as further evidence of my experience in the field. 
